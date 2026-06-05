@@ -8,6 +8,7 @@
 
 - PKU School of Electronics Engineering and Computer Science, Class of 2024
 - Student in the Electronics and Information Experimental Class
+- Research intern at [PKU Lemonade Lab](https://github.com/pku-lemonade) ([@pku-lemonade](https://github.com/pku-lemonade))
 - Interested in LLMs, computer architecture, and processing-in-memory
 - Building small tools, reading papers, and experimenting with hardware-generation workflows
 
@@ -36,4 +37,3 @@ It is the project I am currently most interested in improving.
 ## Current Mode
 
 Reading papers, writing code, testing ideas, and trying to make hardware + AI workflows less painful.
-
