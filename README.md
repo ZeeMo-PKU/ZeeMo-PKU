@@ -1,7 +1,7 @@
-# Hi, I'm Jia Rongxu / 贾镕旭 👋
+# Hi, I'm Jia Rongxu 👋
 
-🎓 **PKU EECS 2024 Undergraduate**  
-💡 **电子信息实验班「信班」学生**  
+🎓 **Undergraduate at Peking University, School of EECS, Class of 2024**  
+💡 **Student in the Electronics and Information Experimental Class**  
 🍋 **Research Intern @ [PKU Lemonade Lab](https://github.com/pku-lemonade)**  
 🚀 Building **[MyGo](https://github.com/ZeeMo-PKU/mygo-zeemo)** and exploring AI + hardware workflows
 
@@ -9,14 +9,15 @@
 
 ## 🧑‍💻 About Me
 
-- 🏫 北京大学信息科学技术学院 2024 级本科生
-- ⚡ 电子信息实验班「信班」学生
-- 🍋 PKU Lemonade Lab 课题组实习生
-- 🛠️ 喜欢把想法做成能跑的工具、实验系统和小项目
+- 🏫 PKU EECS undergraduate, Class of 2024
+- ⚡ Student in the Electronics and Information Experimental Class
+- 🍋 Research intern at PKU Lemonade Lab
+- 🛠️ I enjoy turning ideas into tools, experiments, and working prototypes
+- 📚 Currently reading papers, writing code, and exploring AI-assisted hardware workflows
 
 ## 🔭 What I'm Into
 
-- 🧠 **LLM**: agents, coding workflows, model-assisted design
+- 🧠 **LLMs**: agents, coding workflows, and model-assisted design
 - 💻 **Computer Architecture**: systems, performance, and hardware/software interaction
 - ⚡ **Processing-in-Memory**: memory-centric computing and architecture ideas
 - 🔧 **Hardware Tooling**: Verilog/SystemVerilog, DSLs, and automation
@@ -36,4 +37,4 @@ MyGo is my current main project: a hardware-generation playground for DSL experi
 
 ## 🌱 Current Mode
 
-Reading papers, writing code, testing ideas, and trying to make hardware + AI workflows less painful.
+Building, testing, and learning how to make hardware + AI workflows less painful.
