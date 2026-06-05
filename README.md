@@ -35,6 +35,10 @@ MyGo is my current main project: a hardware-generation playground for DSL experi
 - 🧩 [codex-personal-skills](https://github.com/ZeeMo-PKU/codex-personal-skills): personal Codex skills and workflows
 - 📚 [pku-coursework-portfolio](https://github.com/ZeeMo-PKU/pku-coursework-portfolio): selected coursework and reports
 
+## 📬 Contact
+
+- ✉️ 2400010975@stu.pku.edu.cn
+
 ## 🌱 Current Mode
 
 Building, testing, and learning how to make hardware + AI workflows less painful.
