@@ -3,7 +3,7 @@
 🎓 **Undergraduate at Peking University, School of EECS, Class of 2024**  
 💡 **Student in the Electronics and Information Experimental Class**  
 🍋 **Research Intern @ [PKU Lemonade Lab](https://github.com/pku-lemonade)**  
-🚀 Building **[MyGo](https://github.com/ZeeMo-PKU/mygo-zeemo)** and exploring AI + hardware workflows
+🚀 Exploring AI + hardware workflows, tools, and experiments
 
 ---
 
@@ -22,11 +22,12 @@
 - ⚡ **Processing-in-Memory**: memory-centric computing and architecture ideas
 - 🔧 **Hardware Tooling**: Verilog/SystemVerilog, DSLs, and automation
 
-## 🚀 Featured Project
+## 🌟 Beyond Code
 
-### [MyGo](https://github.com/ZeeMo-PKU/mygo-zeemo)
-
-MyGo is my current main project: a hardware-generation playground for DSL experiments, Verilog/SystemVerilog workflows, and LLM-assisted design exploration.
+- 🏸 I enjoy playing badminton
+- 🏃 Running helps me clear my head
+- 🧳 I like traveling and discovering new places
+- 💬 Always happy to discuss ideas, papers, projects, and interesting problems
 
 ## 📌 Selected Work
 
